@@ -14,6 +14,7 @@ The Multiple R-squared is 0.7149 and p-value is 5.35e-11 which leads us to rejec
 
 ## Summary Statistics on Suspension Coils
 The overall summary shows the MechaCar suspension coils meet the design specification variance that does not exceed 100 PSI.
+
 ![Total Summary of the Suspension Coil Data](images/Challenge2_Total_Summary.png)
 
 However, once we analyse the lots individually, we see that only lot 1 and 2 lots met the design specification variance that does not exceed 100 PSI.  Lot 3 exceeded the requirement by 120 psi. Hence, the current manufactureing data met hte design specification for all manufacture lots in total but failed to meet the requirement individually.
